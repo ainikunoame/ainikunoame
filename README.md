@@ -29,6 +29,7 @@ python
 	│	│		├───tests
 	│	│
 	│	├───docs
+	│	├───README.md
 	│
 	│
 	├───sphinx
