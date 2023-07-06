@@ -25,6 +25,7 @@ python
 	│	├───project
 	│	│	├───project1
 	│	│		├───venv
+	│	│		├───package
 	│	│		├───docs
 	│	│		├───tests
 	│	│
